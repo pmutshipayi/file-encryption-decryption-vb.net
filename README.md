@@ -6,7 +6,7 @@ This program encrypt only the types of files that are save in <b>bin/cryptable_f
 So if you want to add any other type of you can just add it there.<br><br>
 <b>Add the type of file of want to them encrypt in bin/cryptable_file_format.txt</b><br><br>
 ![Screenshot 1](https://github.com/pmutshipayi/file-encryption-description-vb.net/blob/master/screenshoot/Capture.PNG?raw=true "Optional Title")<br><br>
-![Screenshot 2](https://github.com/pmutshipayi/file-encryption-description-vb.net/blob/master/screenshoot/Capture1.PNG?raw=true "Optional Title")
+![Screenshot 2](https://github.com/pmutshipayi/file-encryption-description-vb.net/blob/master/screenshoot/Capture1.PNG?raw=true "Optional Title")<br><br>
 <b>Others stuff !!!</b><br><br>
 All files that should be encrypt/descrypt as plain/text must be writeen in the file <b>bin/plain_text_format.txt</b><br>
 other it will be encrypt/descrypt as a binary file.<br><br>
