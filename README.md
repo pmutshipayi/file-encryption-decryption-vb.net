@@ -1,4 +1,4 @@
-# file-encryption-description-vb.net
+# file-encryption-decryption-vb.net
 A vb.net program that encrypt and decrypt files and directories
 
 <b style="font-size:55px;font-family:comic sans MS">How it works !!!</b><br><br>
